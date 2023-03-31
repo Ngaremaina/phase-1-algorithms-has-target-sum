@@ -30,6 +30,8 @@ function hasTargetSum(array, target) {
 
 /*
   Add written explanation of your solution here
+  make a function called hasTargetSum that checks if two numbers in an array add up to the same target.
+  for instance if an array = [9,8,7,6,5] and the target is 15 then the result should be true since 9+6=15
 */
 
 // You can run `node index.js` to view these console logs
